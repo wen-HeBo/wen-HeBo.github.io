@@ -126,6 +126,10 @@ h6:hover > .anchorjs-link {
   color: var(--sec-text-color);
   font-size: 0.8rem;
 }
+.license-box .license-title div:nth-child(2) a {
+  color: var(--sec-text-color);
+  font-size: 0.8rem;
+}
 .license-box .license-meta {
   align-items: center;
   display: flex;
